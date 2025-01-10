@@ -1,4 +1,4 @@
-* A minimal example of controlling a Sonoff Switch via the EweLink api in Python
+# A minimal example of controlling a Sonoff Switch via the EweLink api in Python
 
 This is a simple example that shows you how to login into Ewelink,
 discover your device and turn a switch on/off. The functionality is
